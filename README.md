@@ -6,9 +6,9 @@ Hey 👋 I'm Clément Farfait (Xyness) and I'm a 19 years old French student, i 
 ---
 
 <h3 align="left">You can follow me on :</h3>
- - 📫 Twitter: <a href="https://twitter.com/intent/follow?screen_name=cmfarfait" title="Follow"><img src="https://img.shields.io/twitter/follow/cmfarfait?label=cmfarfait&style=social"></a>
- - 📝 My personnal website: [https://clementfarfait.github.io/](https://clementfarfait.github.io/)
- - 📩 Contact me via email: [cmfarfait@icloud.com](cmfarfait@icloud.com)
+- 📫 Twitter: <a href="https://twitter.com/intent/follow?screen_name=cmfarfait" title="Follow"><img src="https://img.shields.io/twitter/follow/cmfarfait?label=cmfarfait&style=social"></a>
+- 📝 My personnal website: [https://clementfarfait.github.io/](https://clementfarfait.github.io/)
+- 📩 Contact me via email: [cmfarfait@icloud.com](cmfarfait@icloud.com)
 ---
 
 <h3 align="left">My Projects:</h3>
